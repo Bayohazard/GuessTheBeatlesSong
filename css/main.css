@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.background-dark {
+  background-color: #000110;
+}
+
+.title {
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+/* CSS for buttons on the home page */
+.home-btn-div {
+  margin-top: 60vh;
+}
+
+.home-btn-text {
+  font-size: 1.8rem;
+  border-radius: 1.5rem;
+  border: 2px solid white;
+  color: white;
+}
+
+.home-btn-text:hover {
+  background-color: white;
+  color: black;
+}
